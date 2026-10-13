@@ -85,4 +85,4 @@ xelatex PRL_templates.tex
 ## 交流和问题
 如果遇到关于本文档的任何问题，请联系herman060330@gmail.com
 
-欢饮批评指正以及交流讨论！
+欢迎批评指正以及交流讨论！
